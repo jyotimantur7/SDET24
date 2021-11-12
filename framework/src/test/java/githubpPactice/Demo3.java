@@ -7,6 +7,7 @@ public class Demo3 {
 	public void project3()
 	{
 		System.out.println("2nd project user1 1st commit");
+		System.out.println("user1 commit 5");
 	}
 
 }
